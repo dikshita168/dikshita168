@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dikshita</h1>
 <p align="center">Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building clean, responsive, and user-friendly web applications.<br/>
 
-- 🌱 I’m currently learning **Backend Development**
+<!-- 🌱 I’m currently learning **Backend Development** -->
 
 - 📫 How to reach me **dikshita.pawar.dev@gmail.com**
   
