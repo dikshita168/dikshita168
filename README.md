@@ -23,6 +23,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="50" height="50"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="50" height="50"/> &nbsp;
 <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework" width="120" height="40"/>  &nbsp;
+  <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="Django" width="100" />
+  <img src="https://www.django-rest-framework.org/img/logo.png" alt="DRF" width="100" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" alt="oracle database" width="90" height="60"/> &nbsp;
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="70" height="70"/> 
 
