@@ -29,9 +29,10 @@
 </p>
 
 <p align="left">
-
- <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" height="60"> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL" width="210"/> &nbsp;
+<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" height="50"> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> &nbsp  &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /> &nbsp  &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"  width="50" height="50" />
 
 
@@ -40,7 +41,7 @@
 
 
 
-<a href="https://github.com/haquedot">
+<a href="https://github.com/dikshita168">
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haquedot&theme=radical" height="180em" /> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dikshita168&theme=radical" height="180em" /> -->
 </div
