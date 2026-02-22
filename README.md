@@ -30,10 +30,10 @@
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg" alt="PostgreSQL" width="170"/> &nbsp;
-<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" height="40"> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/> &nbsp  &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45" /> &nbsp  &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"  width="45" height="45" />
+<img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" height="45"> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/> &nbsp  &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /> &nbsp  &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"  width="50" height="50" />
 
 
 </p>
