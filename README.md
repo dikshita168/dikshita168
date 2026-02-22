@@ -13,7 +13,7 @@
 </div>
 
 
-<h3 align="left">Languages and Tools:</h3>
+## 💻 Tech Stack:
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="50" height="50"/> &nbsp;
@@ -28,11 +28,19 @@
 
 </p>
 
+<p align="left">
+
+ <img src="https://www.sqlite.org/images/sqlite370_banner.gif" alt="SQLite Logo" height="60"> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"  width="50" height="50" />
+
+
+</p>
+
 
 
 
 <a href="https://github.com/haquedot">
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=haquedot&theme=radical" height="180em" /> -->
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dikshita168&theme=radical" height="180em" /> -->
-</div>
-
+</div
