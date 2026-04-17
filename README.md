@@ -9,10 +9,22 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dikshita-pawar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/dikshita168" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="mailto:dikshita.pawar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dikshita-pawar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/dikshita168" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="mailto:dikshita.pawar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br>
+  📫 Reach me at: <b>dikshita.pawar.dev@gmail.com</b>
 </p>
+
+---
+
+### ⚡ Quick Bits About Me
+
+- 🚀 Currently working on **Scalable Web Applications using Django & React**.
+- 🌱 Learning more about **System Design and Cloud Deployment**.
+- 👯 Looking to collaborate on **Open Source Python & Full Stack projects**.
+- 💬 Ask me about **Django REST Framework, Database optimization, or React Hooks**.
+- ⚡ Fun fact: **I believe clean code is just as important as code that works.**
 
 ---
 
@@ -35,26 +47,24 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" width="45" alt="Oracle" style="vertical-align:middle; margin-left:5px" />
 </p>
 
- #### 🛠️ Tools & Version Control
+#### 🛠️ Tools & Version Control
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
 
-<!--
-### 📊 Contribution Stats
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dikshita168&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshita168&theme=radical&hide_border=true" alt="streak" height="170" />
 </p>
 
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshita168&theme=radical&hide_border=true&area=true" width="100%" alt="activity graph" />
-</p> -->
-
+</p>
 
 <p align="center">
-  📫 How to reach me: <b>dikshita.pawar.dev@gmail.com</b>
+  <img src="https://komarev.com/ghpvc/?username=dikshita168&label=Profile%20Views&color=45A1FF&style=flat" alt="Views" />
 </p>
