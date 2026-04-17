@@ -35,12 +35,13 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/oracle-original.svg" width="45" alt="Oracle" style="vertical-align:middle; margin-left:5px" />
 </p>
 
-#### 🛠️ Tools & Version Control
+ #### 🛠️ Tools & Version Control
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>
 
 ---
+
 
 ### 📊 Contribution Stats
 <p align="center">
@@ -48,9 +49,10 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshita168&theme=radical&hide_border=true" alt="streak" height="170" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshita168&theme=radical&hide_border=true&area=true" width="100%" alt="activity graph" />
-</p>
+</p> -->
 
 
 <p align="center">
