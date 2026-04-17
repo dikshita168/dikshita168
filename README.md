@@ -52,9 +52,6 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dikshita168&theme=radical&hide_border=true&area=true" width="100%" alt="activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dikshita168&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   📫 How to reach me: <b>dikshita.pawar.dev@gmail.com</b>
