@@ -56,7 +56,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haquedot&label=Profile%20views&color=0e75b6&style=flat" alt="haquedot" />
+  <img src="https://komarev.com/ghpvc/?username=dikshita168&label=Profile%20views&color=0e75b6&style=flat" alt="dikshita168" />
 </p> 
 
 <p align="center">
