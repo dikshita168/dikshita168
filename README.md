@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
 
 #### 🌐 Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,reactnative" />
 </p>
 
 #### ⚙️ Backend Development
