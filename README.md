@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer focused on building 
 ### ⚡ Professional Snapshot
 
 - 🔭 **Currently working on:** Building robust and scalable full-stack applications with a focus on performance.
-- 👯 **Looking to collaborate on:** Open-source projects involving **Python, Django, or React**.
+- 👯 **Looking to collaborate on:** Open-source projects involving **Python, Django, or React Js, Next Js, React Native**.
 - 💬 **Ask me about:** Backend logic, Database design, and creating RESTful APIs.
 - ⚡ **Fun fact:** I enjoy the challenge of debugging and turning complex problems into elegant solutions.
 
