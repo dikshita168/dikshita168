@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dikshita</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+Django+Specialist;Building+Scalable+Web+/mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+Django+Specialist;Building+Scalable+Web+/Mobile+Apps" alt="Typing SVG" />
 </p>
 
 <p align="center">
