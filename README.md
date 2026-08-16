@@ -17,7 +17,7 @@
 - 🔭 **Currently working on:** Building scalable full-stack applications with Python, Django, React, and modern cloud technologies.
 - 👯 **Looking to collaborate on:** Open-source projects involving Python, Django, React, Next.js, React Native, and AI integrations.
 - 💬 **Ask me about:** Python, Django, DRF, REST APIs, database design, authentication, caching, React, and backend architecture.
-- ⚡ **Fun fact:**I enjoy debugging complex problems and turning them into clean, maintainable solutions
+- ⚡ **Fun fact:** I enjoy debugging complex problems and turning them into clean, maintainable solutions
 
 ---
 
