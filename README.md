@@ -36,13 +36,17 @@ Technologies:
 HTML • CSS • JavaScript • React.js • Next.js • React Native • Expo • Tailwind CSS
 
 #### ⚙️ Backend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,django" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
 
 Technologies:
 Python • Django • Django REST Framework • REST APIs • API Design • Authentication • JWT • Backend Architecture
 
 #### 🗄️ Databases & Chaching
-<p align="left"> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+</p>
 
 Technologies:
 PostgreSQL • MySQL • SQLite • Oracle • Redis • Database Design • Query Optimization • Caching
@@ -56,7 +60,10 @@ AWS • Docker • GitHub Actions • CI/CD • Nginx • Cloud Deployment
 
 #### 🤖 AI & Integration
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=openai" /> </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
 Technologies:
 LangChain • OpenAI • AI Integration • LLM APIs • REST API Integration
