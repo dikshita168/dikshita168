@@ -28,7 +28,9 @@
 ### 💻 Tech Stack
 
 #### 🌐 Frontend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,reactnative,tailwind" /> </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss" />
+</p>
 
 Technologies:
 HTML • CSS • JavaScript • React.js • Next.js • React Native • Expo • Tailwind CSS
