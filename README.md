@@ -103,9 +103,9 @@ Git • GitHub • Postman • VS Code • Figma • Netlify • Debugging
 ---
 #### 📌 Current Focus
 
-I'm currently strengthening my skills in:
+<!-- I'm currently strengthening my skills in:
 
-<!-- JavaScript → Next.js → React Native → FastAPI → AWS → Docker → CI/CD → System Design  -->
+ JavaScript → Next.js → React Native → FastAPI → AWS → Docker → CI/CD → System Design  -->
 
 My goal is to build production-ready applications with strong backend architecture, scalable APIs, modern frontend experiences, and reliable cloud deployments.
 
