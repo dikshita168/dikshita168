@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dikshita Pawar</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+Django+Specialist;Building+Scalable+Web+/Mobile+Apps" alt="Typing SVG" />
-</p>
+<h3 align="center">Full Stack Developer | Python Django Specialist | Building Scalable Web & Mobile Apps</h3>
 
 <p align="center">
   Full Stack Developer focused on building scalable, responsive, and user-friendly web and mobile applications.
