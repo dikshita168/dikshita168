@@ -1,115 +1,155 @@
-<h1 align="center">Hi 👋, I'm Dikshita Pawar</h1>
+# Hi 👋, I'm Dikshita Pawar
 
-<h3 align="center">Full Stack Developer | Python Django Specialist | Building Scalable Web & Mobile Apps</h3>
 
-<p align="center">
-  Full Stack Developer focused on building scalable, responsive, and user-friendly web and mobile applications.
-</p>
+Software Engineer | Backend & Full Stack Developer\
+React.js • Next.js • React Native • Expo • Tailwind CSS
 
-<p align="center"> <a href="https://www.linkedin.com/in/dikshita-pawar/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/dikshita168" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:dikshita.pawar.dev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-<p align="center"> 📫 Reach me at: <b>dikshita.pawar.dev@gmail.com</b> </p>
-
----
-
-### ⚡ Professional Snapshot
-
-- 🔭 **Currently working on:** Building scalable full-stack applications with Python, Django, React, and modern cloud technologies.
-- 👯 **Looking to collaborate on:** Open-source projects involving Python, Django, React, Next.js, React Native, and AI integrations.
-- 💬 **Ask me about:** Python, Django, DRF, REST APIs, database design, authentication, caching, React, and backend architecture.
-- ⚡ **Fun fact:** I enjoy debugging complex problems and turning them into clean, maintainable solutions
+Backend-focused Software Engineer with experience building scalable web applications,
+REST APIs, and database-driven systems using Python, Django, Django REST Framework,
+React, and modern cloud technologies.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dikshita168&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+## About Me
 
-### 💻 Tech Stack
+- Building scalable and production-ready web applications
+- Specializing in Python, Django, Django REST Framework, and REST APIs
+- Experienced in PostgreSQL, authentication, database design, caching, and API development
+- Building responsive web and mobile applications with React, Next.js, and React Native
+- Exploring AWS, Docker, CI/CD, and system design
+- Interested in AI integrations and backend systems
 
-#### 🌐 Frontend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindcss" />
-</p>
-
-Technologies:
-HTML • CSS • JavaScript • React.js • Next.js • React Native • Expo • Tailwind CSS
-
-#### ⚙️ Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django" />
-</p>
-
-Technologies:
-Python • Django • Django REST Framework • REST APIs • API Design • Authentication • JWT • Backend Architecture
-
-#### 🗄️ Databases & Chaching
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
-</p>
-
-Technologies:
-PostgreSQL • MySQL • SQLite • Oracle • Redis • Database Design • Query Optimization • Caching
-
-#### ☁️ Cloud & DevOps
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" /> </p>
-
-Technologies:
-AWS • Docker • GitHub Actions • CI/CD • Nginx • Cloud Deployment
-
-#### 🤖 AI & Integration
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
-
-Technologies:
-LangChain • OpenAI • AI Integration • LLM APIs • REST API Integration
-
-#### 🏗️ System Design & Architecture
-
-Concepts:
-
-System Design
-REST API Architecture
-API Design
-Database Design
-Authentication & Authorization
-JWT Authentication
-Caching
-Scalable Backend Architecture
-Modular & Maintainable Code
-
-#### 🛠️ Tools & Platforms
-
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,netlify" /> </p>
-
-Tools:
-Git • GitHub • Postman • VS Code • Figma • Netlify • Debugging
+Email: **dikshita.pawar.dev@gmail.com**
 
 ---
-#### 🚀 What I Build
-🌐 Full Stack Web Applications
-📱 React Native Mobile Applications
-🔌 RESTful APIs with Django REST Framework
-🔐 Authentication & Authorization Systems
-⚡ High-performance APIs with Redis Caching
-🗄️ Database-driven Applications
-☁️ Cloud-deployed Applications
-🤖 AI-powered Applications & Integrations
+
+## Experience
+
+### Backend Developer Intern — inMinit
+
+- Developed REST APIs using Django and Django REST Framework
+- Worked across Seller, Rider, Customer, and Admin Dashboard modules
+- Implemented JWT authentication and role-based access control
+- Worked with PostgreSQL databases and optimized database queries
+- Tested and debugged APIs using Postman
+- Worked with Redis caching and session management
+- Supported frontend integration and API debugging
+- Assisted with cloud deployment and production backend development
+
+### Frontend Developer — Easyplus Ecomserve Pvt. Ltd.
+
+- Developed responsive web interfaces using React
+- Built reusable and componentized UI sections
+- Improved frontend performance and user experience
+- Implemented responsive layouts for different devices and browsers
+- Collaborated with the client through design reviews and feedback cycles
 
 ---
-#### 📌 Current Focus
 
-<!-- I'm currently strengthening my skills in:
+## Projects
 
- JavaScript → Next.js → React Native → FastAPI → AWS → Docker → CI/CD → System Design  -->
+### Django To-Do Web App
 
-My goal is to build production-ready applications with strong backend architecture, scalable APIs, modern frontend experiences, and reliable cloud deployments.
+A full-stack task management application built using Django.
 
+- User registration, login, and logout
+- Task creation, updating, deletion, and status management
+- Django ORM for database operations
+- Responsive interface using Django templates
 
-<p align="center"> ⭐ Feel free to explore my repositories and connect with me! </p>
+**Technologies:** Python, Django, SQLite, HTML, CSS
 
+### CineVerse — Movie Discovery App
 
+A movie discovery application using the TMDb API.
+
+- Integrated TMDb API for movie discovery and search
+- Implemented pagination and search functionality
+- Built reusable movie cards and UI components
+- Optimized API requests and application performance
+- Created a responsive interface for different screen sizes
+
+**Technologies:** React, JavaScript, TMDb API, CSS
+
+### Note Full Stack App
+
+A full-stack note management application with a Django REST Framework backend.
+
+- Built REST APIs for note management
+- Implemented database operations using PostgreSQL
+- Connected frontend applications with backend APIs
+- Implemented authentication and structured API responses
+
+**Technologies:** Django, Django REST Framework, PostgreSQL, React
+
+---
+
+## Tech Stack
+
+### Frontend
+
+HTML5, CSS3, JavaScript, React.js, Next.js, React Native, Expo, Tailwind CSS
+
+### Backend
+
+Python, Django, Django REST Framework, REST APIs, JWT, Authentication & Authorization
+
+### Databases & Caching
+
+PostgreSQL, MySQL, Oracle, SQLite, Redis, Database Design, Query Optimization, Caching
+
+### Cloud & DevOps
+
+AWS, Docker, GitHub Actions, CI/CD, Nginx, Cloud Deployment
+
+### AI & Integration
+
+LangChain, OpenAI API, AI Integration, LLM APIs, REST API Integration
+
+### System Design
+
+System Design, REST API Architecture, API Design, Database Design,
+Authentication & Authorization, Caching, Scalable Backend Architecture
+
+### Tools
+
+Git, GitHub, Postman, VS Code, Figma, Netlify
+
+---
+
+## What I Build
+
+- Full Stack Web Applications
+- REST APIs with Django REST Framework
+- Authentication and Authorization Systems
+- Database-driven Applications
+- React and Next.js Applications
+- React Native Mobile Applications
+- Cloud-deployed Applications
+- AI-powered Applications and Integrations
+
+---
+## Education
+
+### Bachelor of Engineering — Computer Engineering
+
+Terna Engineering College, Mumbai University
+
+CGPA: 7.6 / 10
+
+## Certification
+
+*Full Stack Development — QSpiders Training Institute*
+
+---
+
+## Connect
+
+Portfolio: https://dikshita.tech
+
+LinkedIn: https://www.linkedin.com/in/dikshita-pawar/
+
+GitHub: https://github.com/dikshita168
+
+Email: dikshita.pawar.dev@gmail.com
