@@ -7,7 +7,7 @@ React.js • Next.js • React Native • Django • DRF • REST API •  Tailw
 
 ## About Me
 
-- Building scalable and production-ready web applications
+- Building scalable and production-ready web and Mobile applications
 - Specializing in Python, Django, Django REST Framework, and REST APIs
 - Experienced in PostgreSQL, authentication, database design, caching, and API development
 - Building responsive web and mobile applications with React, Next.js, and React Native
