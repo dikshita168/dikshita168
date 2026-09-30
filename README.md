@@ -1,13 +1,7 @@
 # Hi 👋, I'm Dikshita Pawar
 
-
 Software Engineer | Backend & Full Stack Developer\
 React.js • Next.js • React Native • Expo • Tailwind CSS
-
-
-Backend-focused Software Engineer with experience building scalable web applications,
-REST APIs, and database-driven systems using Python, Django, Django REST Framework,
-React, and modern cloud technologies.
 
 ---
 
@@ -21,6 +15,8 @@ React, and modern cloud technologies.
 - Interested in AI integrations and backend systems
 
 Email: **dikshita.pawar.dev@gmail.com**
+
+<p><img src="https://komarev.com/ghpvc/?username=dikshita168&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /></p>
 
 ---
 
