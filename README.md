@@ -16,7 +16,7 @@ React.js • Next.js • React Native • Django • DRF • REST API •  Tailw
 
 Email: **dikshita.pawar.dev@gmail.com**
 
-<-- ![Profile Views](https://komarev.com/ghpvc/?username=dikshita168) -->  
+ ![Profile Views](https://komarev.com/ghpvc/?username=dikshita168)  
 
 ---
 
