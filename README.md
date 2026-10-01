@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dikshita Pawar
 
 Software Engineer | Backend & Full Stack Developer\
-React.js • Next.js • React Native • Django • DRF • REST API •  Tailwind CSS
+React.js • Next.js • React Native • Django • DRF • REST API •  Tailwind CSS • PostgreSQL • Backend Development 
 
 ---
 
