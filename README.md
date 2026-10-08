@@ -142,7 +142,7 @@ CGPA: 7.6 / 10
 
 ## Connect
 
-Portfolio: https://dikshita.tech
+Portfolio: https://dikshitapawar.com
 
 LinkedIn: https://www.linkedin.com/in/dikshita-pawar/
 
