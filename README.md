@@ -1,6 +1,8 @@
 
 # Hi, I'm Dikshita Pawar 👋
 
+ ![Profile Views](https://komarev.com/ghpvc/?username=dikshita168)
+
 **Software Engineer | Backend & Full Stack Developer**
 
 Python • Django • DRF • React.js • Next.js • React Native • PostgreSQL • Tailwind CSS • Backend Development 
@@ -16,13 +18,13 @@ Python • Django • DRF • React.js • Next.js • React Native • PostgreS
 
 📧 **Email:** [dikshita.pawar.dev@gmail.com](mailto:dikshita.pawar.dev@gmail.com)
 
- ![Profile Views](https://komarev.com/ghpvc/?username=dikshita168)
+
 
  ---
 
 ## Experience
 
-### Backend Developer — inMinit
+### Backend Developer Intern — inMinit
 
 - Developed REST APIs using Django and Django REST Framework.
 - Worked on Seller, Rider, Customer, and Admin Dashboard modules.
