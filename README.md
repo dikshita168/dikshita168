@@ -80,8 +80,6 @@ Full-stack note management application with REST APIs and PostgreSQL integration
 **B.E. in Computer Engineering**  
 Terna Engineering College, Mumbai University
 
-CGPA: 7.6 / 10
-
 **Certification:** Full Stack Development — QSpiders Training Institute
 
 ---
