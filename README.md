@@ -16,7 +16,7 @@ Python • Django • DRF • React.js • Next.js • React Native • PostgreS
 - Experienced in database design, authentication, and API integration.
 - Exploring Docker, AWS, CI/CD, and AI integrations.
 
-📧 **Email:** [dikshita.pawar.dev@gmail.com](mailto:dikshita.pawar.dev@gmail.com)
+<!-- 📧 **Email:** [dikshita.pawar.dev@gmail.com](mailto:dikshita.pawar.dev@gmail.com) -->
 
 
 <!--
