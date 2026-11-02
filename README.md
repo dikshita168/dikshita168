@@ -1,5 +1,5 @@
 
-# Hi, I'm Dikshita Pawar 👋
+# Hi, I'm Dikshita Pawar !
 
  ![Profile Views](https://komarev.com/ghpvc/?username=dikshita168)
 
@@ -19,7 +19,7 @@ Python • Django • DRF • React.js • Next.js • React Native • PostgreS
 📧 **Email:** [dikshita.pawar.dev@gmail.com](mailto:dikshita.pawar.dev@gmail.com)
 
 
-
+<!--
  ---
 
 ## Experience
@@ -81,6 +81,7 @@ Full-stack note management application with REST APIs and PostgreSQL integration
 Terna Engineering College, Mumbai University
 
 **Certification:** Full Stack Development — QSpiders Training Institute
+-->
 
 ---
 
